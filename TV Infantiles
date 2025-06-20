@@ -43,3 +43,21 @@ http://kstv.us:8080/live/5xr5CdHFDr/1028523/23275.ts
 http://kstv.us:8080/live/5xr5CdHFDr/1028523/23274.ts
 #EXTINF: -1 tvg-id=''KSFYDT6.us'' tvg-logo=''MeTV_Toons.png'' group-title=''Infantiles'',US | MeTV Toons
 http://kstv.us:8080/live/5xr5CdHFDr/1028523/48753.ts
+#EXTINF: -1 tvg-id=''CartoonNetwork.ca'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',CA - CARTOON NETWORK
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40763.ts
+#EXTINF: -1 tvg-id=''DisneyChannel.ca'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',CA - DISNEY
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40725.ts
+#EXTINF: -1 tvg-id=''DisneyChannel.ca'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',CA - DISNEY FRENCH
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40724.ts
+#EXTINF: -1 tvg-id=''DisneyJr.ca'' tvg-logo=''DisneyJr3DVer.png'' group-title=''Infantiles'',CA - DISNEY JR
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40723.ts
+#EXTINF: -1 tvg-id=''FamilyChannel.ca'' tvg-logo=''family-channel-logo.png'' group-title=''Infantiles'',CA - FAMILY Channel
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40714.ts
+#EXTINF: -1 tvg-id=''FamilyJr.ca'' tvg-logo=''Family_Jr._logo.svg.png'' group-title=''Infantiles'',CA - FAMILY JR
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40713.ts
+#EXTINF: -1 tvg-id=''TreehouseTV.ca'' tvg-logo=''Treehouse_TV_logo.svg.png'' group-title=''Infantiles'',CA - TREEHOUSE
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40652.ts
+#EXTINF: -1 tvg-id=''YTV.ca'' tvg-logo=''Ytv_logo.png'' group-title=''Infantiles'',CA - YTV E
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40663.ts
+#EXTINF: -1 tvg-id=''YTV.ca'' tvg-logo=''Ytv_logo.png'' group-title=''Infantiles'',CA - YTV West
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40662.ts
