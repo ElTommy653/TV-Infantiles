@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-id=''Boomerang.us'' tvg-logo=''Boomerang_2014_logo.svg.png'' group-title=''Infantiles'',Boomerang
-https://v13.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8?token=XQlj7ZknflQMmeglbCVrgA&expires=1750459371&user_id=aXB1c3pPb2FZUXdRZTUzMWxvTXdUQjNGMGZRNWZlYUpHdGl0Y2pSRA==
+https://v8.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=5SX14qh5f1Bk_ncvKjydJw&expires=1750725136&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''CartoonNetwork.us'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',Cartoon Network
 https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=J6uCBKkZo4ux2liwm9XQCg&expires=1750460247&user_id=aXB1c3pPb2FZUXdRZTUzMWxvTXdUQjNGMGZRNWZlYUpHdGl0Y2pSRA==
 #EXTINF: -1 tvg-id=''DisneyChannel.us'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',Disney Channel
